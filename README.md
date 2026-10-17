@@ -1,76 +1,30 @@
-<div align="center">
-
-
-# %%%* hELLO // 07734 ~%%%
-PLEASE HELP ME MAKING MESSY WEBSITES; MINE IS TOO CLEAN.
-
----
-
-
-**[ ! ] COUNTRY: FRANCE**
-
-
----
-
-
-### ~/ PLEASE READ ME .MD ~%%%
-
-`> cat /home/maxime/ME.txt`
-
-HELLO ! I'm Maxime. 20-year-old;; 
-
-I Love ARCH LINUX and i HATE VIM. NOTHING works as always BUT **IT IS FINE.** !!*
-
-\>\>\>\>\>\>\>\>\> MIGRATING TO NIX.OS
-
----
-
-
-### ~/ MY SHINY & BROKEN PROJECTS ~%%%
-
-| PROJECT | TECH | STATUS |
-| :---  | :--- | :--- |
-| **Linear Algebra Lib** | `Rust` | [WORKING...] |
-| **Portfolio** | `Vue/Tailwind` | [WORKING ALWAYS...] |
-| **Yepi** | `Node.js` | [RIP] |
-| **Unnamed** | `Electron` | [RIP] |
-
-
----
-
-
-### /* LINKS & LIFE ~%%%
-
-* [clicK HERE TO SEE MY [ NIX OS ] CONFIG. .~*](https://github.com/07734maxime/nixos-config)
-
-* [MY_JAPANESE_STUDY_LOG_~*](https://hello.is-a.dev/blog/learning-japanese)
-
-
----
-
-
-> "Heaven means to be one with God."
-
-> "There are only two kinds of languages: the ones people complain about and the ones nobody uses."
-
+# Hi, I'm Maxime 👋
 > "Simplicity is the ultimate sophistication."
 
+Computer science student based in France. I've been programming since I was 10 and I enjoy a bit of everything: Linux systems, web development, and tooling in Rust.
+
+On the setup side, I moved from Arch Linux to **NixOS** (dual boot, running Niri), and no, I still don't like Vim.
 
 ---
 
+## 🛠️ Projects
+
+| Project | Stack | Status |
+| :--- | :--- | :--- |
+| **Linear Algebra Lib** | Rust | 🚧 In progress |
+| **Portfolio** | Vue, Tailwind | 🚧 In progress (forever) |
+| **Yepi** | Node.js | 💀 Abandoned |
+| **Unnamed** | Electron | 💀 Abandoned |
+
 ---
 
+## 🔗 Links
 
-**[ ! ] CONTACT ME IN CASE [ ! ]**
+- [My NixOS config](https://github.com/07734maxime/nixos-config)
+- [My Japanese learning log](https://hello.is-a.dev/blog/learning-japanese)
 
-`[ 07734.IS-A.DEV // GITHUB // DISCORD ]`
+---
 
+## 📫 Contact
 
-<p align="center">
-
-  <img src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8688491/hiE5vMs.gif?quality=90&strip=all&crop=0,0,100,100" width="100" /> 
-
-</p>
-
-
-</div>
+[Website](https://07734.is-a.dev) · [GitHub](https://github.com/07734maxime)
