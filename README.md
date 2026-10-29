@@ -13,7 +13,7 @@ On the setup side, I moved from Arch Linux to **NixOS** (dual boot, running Niri
 | :--- | :--- | :--- |
 | **Linear Algebra Lib** | Rust | 🚧 In progress |
 | **Portfolio** | Vue, Tailwind | 🚧 In progress (forever) |
-| **Yepi** | Node.js | 💀 Abandoned |
+| **Yepi** | Node.js | 🎉 IS BACK (and even better) |
 | **Unnamed** | Electron | 💀 Abandoned |
 
 ---
