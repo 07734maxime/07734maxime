@@ -11,9 +11,10 @@ On the setup side, I moved from Arch Linux to **NixOS** (dual boot, running Niri
 
 | Project | Stack | Status |
 | :--- | :--- | :--- |
-| **Linear Algebra Lib** | Rust | 🚧 In progress |
+| **Linear Algebra Lib** | Rust | 💀 Abandoned |
 | **Portfolio** | Vue, Tailwind | 🚧 In progress (forever) |
-| **Yepi** | Node.js | 🎉 IS BACK (and even better) |
+| **Yepi** | Node.js | Replaced with yeplayer |
+| **Yeplayer** | Node.js | https://yeplayer.net/ |
 | **Unnamed** | Electron | 💀 Abandoned |
 
 ---
